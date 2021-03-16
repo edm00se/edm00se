@@ -17,9 +17,7 @@ Are you looking to contribute to one of my repositories? Go for it, so long as i
 </div>
 
 <!--
-[![edm00se's github stats](https://github-readme-stats.vercel.app/api?username=edm00se&show_icons=true&theme=onedark)](https://github.com/edm00se/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edm00se&repo=AnAppOfIceAndFire)](https://github.com/edm00se/AnAppOfIceAndFire)
+[![edm00se's github stats](https://github-readme-stats.vercel.app/api?username=edm00se&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edm00se)
 -->
