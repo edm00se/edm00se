@@ -1,13 +1,13 @@
-<!--
-# Hacktoberfest 2020
+
+<!-- # Hacktoberfest 2021
 
 Are you looking to contribute to one of my repositories? Go for it, so long as it's a PR in good faith, I'll mark the PR with the `hactoberfest-accepted` label.
 
-[![hacktoberfest 2020 image](https://hacktoberfest.digitalocean.com/assets/og-hf20-cf92d1a3bfc78883ea79dbac1518f1a4f1585e23eb69337ea730447cb70fa777.png)](https://hacktoberfest.digitalocean.com/)
+[![hacktoberfest 2021 image](https://hacktoberfest.digitalocean.com/img/logo-hacktoberfest-full.7d5e2645.svg)](https://hacktoberfest.digitalocean.com/)
 
-<hr>
+<hr> -->
 
--->
+
 
 <div align="center">
   <h1>Keep On Never Gonna-ing</h1>
@@ -16,8 +16,8 @@ Are you looking to contribute to one of my repositories? Go for it, so long as i
   </a>
 </div>
 
-<!--
+<!-- 
 [![edm00se's github stats](https://github-readme-stats.vercel.app/api?username=edm00se&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edm00se)
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edm00se) -->
+
