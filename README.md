@@ -1,11 +1,11 @@
 
-<!-- # Hacktoberfest 2021
+# Hacktoberfest 2021
 
-Are you looking to contribute to one of my repositories? Go for it, so long as it's a PR in good faith, I'll mark the PR with the `hactoberfest-accepted` label.
+Are you looking to contribute to one of my repositories? Go for it, I have a couple repos marked with the `hacktoberfest` label and so long as you submit a PR in good faith, I'll mark the PR with the `hactoberfest-accepted` label.
 
-[![hacktoberfest 2021 image](https://hacktoberfest.digitalocean.com/img/logo-hacktoberfest-full.7d5e2645.svg)](https://hacktoberfest.digitalocean.com/)
+<!-- [![hacktoberfest 2021 image](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)](https://hacktoberfest.digitalocean.com/) -->
 
-<hr> -->
+<hr>
 
 
 
