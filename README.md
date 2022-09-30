@@ -2,7 +2,7 @@
 
 Are you looking to contribute to one of my repositories? Go for it, I have a couple repos marked with the `hacktoberfest` label and so long as you submit a PR in good faith, I'll mark the PR with the `hactoberfest-accepted` label.
 
-[![hacktoberfest 2022 image](https://hacktoberfest.com/_next/static/media/grain-dark.9d5983e6.png)](https://hacktoberfest.digitalocean.com/)
+[![hacktoberfest 2022 image](https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg)](https://hacktoberfest.com/)
 
 <hr>
 
