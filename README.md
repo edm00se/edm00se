@@ -8,6 +8,7 @@ Are you looking to contribute to one of my repositories? Go for it, I have a cou
 <hr>
 
 -->
+<link rel="me" href="https://hachyderm.io/@edm00se" />
 
 <div align="center">
   <h1>Keep On Never Gonna-ing</h1>
