@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://edm00se.io/rss.xml,https://misc.edm00se.codes/feed.xml"
+          feed_list: "https://edm00se.io/rss.xml" # https://misc.edm00se.codes/feed.xml
