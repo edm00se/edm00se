@@ -20,9 +20,9 @@ Are you looking to contribute to one of my repositories? Go for it, I have a cou
 <!-- BLOG-POST-LIST:START -->
 - [Proxying APIs With Parcel v2!](https://edm00se.io/web/proxying-apis-with-parcel-v2/)
 - [Signs of an Advancing Web](https://edm00se.io/web/signs-of-the-web-advancing/)
-- [Making Working From Home Work](https://edm00se.codes/misc/making-working-from-home-work/)
 - [Making Working From Home Work](https://edm00se.io/making-working-from-home-work/)
 - [Side Benefits of Static Typing](https://edm00se.io/web/side-benefits-of-static-typing/)
+- [Maintaining Hacks](https://edm00se.io/web/maintaining-hacks/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 
