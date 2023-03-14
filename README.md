@@ -16,8 +16,11 @@ Are you looking to contribute to one of my repositories? Go for it, I have a cou
   </a>
 </div>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!-- 
 [![edm00se's github stats](https://github-readme-stats.vercel.app/api?username=edm00se&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edm00se) -->
-
