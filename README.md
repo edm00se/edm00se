@@ -16,7 +16,7 @@ Are you looking to contribute to one of my repositories? Go for it, I have a cou
   </a>
 </div>
 
-# Blog posts
+# Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Proxying APIs With Parcel v2!](https://edm00se.io/web/proxying-apis-with-parcel-v2/)
 - [Signs of an Advancing Web](https://edm00se.io/web/signs-of-the-web-advancing/)
