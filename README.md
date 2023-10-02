@@ -1,4 +1,3 @@
-<!--
 # Hacktoberfest 2023
 
 Are you looking to contribute to one of my repositories? Go for it, I have a couple repos marked with the `hacktoberfest` label and so long as you submit a PR in good faith, I'll mark the PR with the `hactoberfest-accepted` label.
@@ -8,8 +7,6 @@ Are you looking to contribute to one of my repositories? Go for it, I have a cou
 </div>
 
 <hr>
-
--->
 
 <div align="center">
   <h1>Keep On Never Gonna-ing</h1>
