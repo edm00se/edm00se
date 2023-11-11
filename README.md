@@ -17,11 +17,11 @@ Are you looking to contribute to one of my repositories? Go for it, I have a cou
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Putting The Bots To Work](https://edm00se.io/putting-the-bots-to-work/)
 - [JSON and Number Formats](https://edm00se.io/json-and-number-formats/)
 - [Proxying APIs With Parcel v2!](https://edm00se.io/web/proxying-apis-with-parcel-v2/)
 - [Signs of an Advancing Web](https://edm00se.io/web/signs-of-the-web-advancing/)
 - [Making Working From Home Work](https://edm00se.io/making-working-from-home-work/)
-- [Side Benefits of Static Typing](https://edm00se.io/web/side-benefits-of-static-typing/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 
