@@ -4,7 +4,6 @@
 name: Upgrade Dependencies
 
 on:
-  workflow_dispatch:
   workflow_call:
     inputs:
       nodever:
@@ -12,9 +11,6 @@ on:
         default: 'lts/Iron' # 20
         required: false
         type: string
-  # schedule:
-  #   # https://crontab.guru/#0_8_*_*_1
-  #   - cron: "0 8 * * 1"
 
 jobs:
   update-packages:
