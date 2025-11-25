@@ -8,7 +8,7 @@ on:
     inputs:
       nodever:
         description: 'the Node version to use'
-        default: 'lts/Jod' # 22
+        default: 'lts/Krypton' # 24
         required: false
         type: string
 
